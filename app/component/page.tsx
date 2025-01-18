@@ -7,6 +7,7 @@ const Hello = () => {
 
 
       <h1>heyyy dsjadnakjd</h1>
+      <h2>kadjakdsfjakdsjfaksd</h2>
     </div>
   )
 }
