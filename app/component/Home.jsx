@@ -1,11 +1,11 @@
 import React from 'react'
 
-function dkjfhd() {
+function Homes() {
   return (
     <div>
-      kjfdhkjfdhkjgdfk
+      halow home
     </div>
   )
 }
 
-export default dkjfhd
+export default Homes
