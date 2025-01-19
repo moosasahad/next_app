@@ -1,5 +1,6 @@
 import React from 'react'
 import Link from 'next/link'
+import Product from './Product'
 
 const HI = () => {
   return (
@@ -8,7 +9,7 @@ const HI = () => {
      <Link href={"/"} className=' bg-green-400 p-3 m-4'>
     go back to home
      </Link>
-
+<Product/>
     </div>
   )
 }
