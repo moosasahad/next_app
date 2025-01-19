@@ -1,3 +1,4 @@
+import Link from 'next/link'
 import React from 'react'
 
 function Home() {
@@ -6,6 +7,9 @@ function Home() {
       <h1>
         hallow 
       </h1>
+      <Link href={"/"} className=' bg-green-400 p-3 m-4'>
+    go back to home
+     </Link>
     </div>
   )
 }
