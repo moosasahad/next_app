@@ -1,4 +1,5 @@
 import React from 'react'
+import Section from './Section';
 
 function Product() {
     const products = [
@@ -58,7 +59,7 @@ function Product() {
     <div>
         <h1 className='text-4xl font-bold text-center py-10 underline underline-offset-2'>Products.</h1>
       <div className='p-10 flex flex-wrap justify-center  gap-4'>
-
+<Section/>
       {products.map((product) => (
         <div key={product.id} className="border p-4 w-64 ">
           <img src={product.image} alt={product.name} className="w-full h-40 object-cover" />
