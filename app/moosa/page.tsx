@@ -8,6 +8,7 @@ const HI = () => {
      hallow moosa
      <Link href={"/"} className=' bg-green-400 p-3 m-4'>
     go back to home
+    <Product/>
      </Link>
 <Product/>
     </div>
