@@ -53,6 +53,37 @@ function Product() {
           image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBks98xcOTXXIYF3z87erbFfZ2RE4mWK5myQ&s",
           stock: 200,
         },
+        {
+            id: 5,
+            name: "Water Bottle",
+            description: "Stainless steel water bottle with thermal insulation.",
+            price: 19.99,
+            brand: "Hydro Flask",
+            category: "Lifestyle",
+            image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBks98xcOTXXIYF3z87erbFfZ2RE4mWK5myQ&s",
+            stock: 200,
+          },
+          {
+            id: 5,
+            name: "Water Bottle",
+            description: "Stainless steel water bottle with thermal insulation.",
+            price: 19.99,
+            brand: "Hydro Flask",
+            category: "Lifestyle",
+            image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBks98xcOTXXIYF3z87erbFfZ2RE4mWK5myQ&s",
+            stock: 200,
+          },
+          {
+            id: 5,
+            name: "Water Bottle",
+            description: "Stainless steel water bottle with thermal insulation.",
+            price: 19.99,
+            brand: "Hydro Flask",
+            category: "Lifestyle",
+            image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBks98xcOTXXIYF3z87erbFfZ2RE4mWK5myQ&s",
+            stock: 200,
+          },
+          
       ];
       
   return (
